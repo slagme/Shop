@@ -1,7 +1,7 @@
 <?php
 define('DB_LOGIN', 'root'); //login
 define('DB_PASS', 'coderslab'); //password
-define('DB_DB', 'shop'); //database
+define('DB_DB', 'MyShop'); //database
 define('DB_HOST', 'localhost'); //host
 // connection with DB
 try {
